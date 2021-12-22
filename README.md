@@ -6,7 +6,7 @@ Este projeto foi inicializado com [Create React App] (https://github.com/faceboo
 
 No diretório do projeto, você pode executar:
 
-###`npm install` para instalar as dependencias.
+### `npm install` para instalar as dependencias.
 
 ### `npm start` para rodar a aplicação no navegador.
 
